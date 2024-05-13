@@ -37,3 +37,6 @@ Before you begin, make sure your machine meets the following requirements:
 
 - MySQL Workbench: The customers table with test data:
 <img width="1280" alt="MySQL_CustomerSeeder" src="https://github.com/brunoopetri/customer-management/assets/98756562/816eb707-4233-45e1-82ca-eb39d48f2d39">
+
+## Create Customer in the application
+<img width="635" alt="CriarCliente" src="https://github.com/brunoopetri/customer-management/assets/98756562/640304b2-1a02-4523-8633-bac3c7b087fb">
