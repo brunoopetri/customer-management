@@ -51,3 +51,11 @@ Before you begin, make sure your machine meets the following requirements:
 - In the application
 
 <img width="637" alt="editCustomer" src="https://github.com/brunoopetri/customer-management/assets/98756562/1bd2154a-056a-4f05-8b57-5feb4d33bc7b">
+
+- Edit Customer
+
+<img width="636" alt="editCustomer1" src="https://github.com/brunoopetri/customer-management/assets/98756562/aba21fd7-13d8-445e-80c5-e359c3e047ae">
+
+- Edit customer in MySQL Workbench
+
+<img width="1277" alt="MySQL EditCustomer1" src="https://github.com/brunoopetri/customer-management/assets/98756562/2923f0f4-ff09-420d-a9a9-5573f7231203">
