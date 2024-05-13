@@ -57,6 +57,6 @@ Before you begin, make sure your machine meets the following requirements:
 
 <img width="636" alt="edit_Customer1" src="https://github.com/brunoopetri/customer-management/assets/98756562/0901571f-d6b2-4d1a-97e3-2db84da7b60c">
 
-- Edit customer in MySQL Workbench
+- Confirm client edition in MySQL Workbench
 
 <img width="1277" alt="MySQL EditCustomer1" src="https://github.com/brunoopetri/customer-management/assets/98756562/2923f0f4-ff09-420d-a9a9-5573f7231203">
