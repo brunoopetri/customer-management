@@ -42,5 +42,5 @@ Before you begin, make sure your machine meets the following requirements:
 - In the application
 <img width="635" alt="CriarCliente" src="https://github.com/brunoopetri/customer-management/assets/98756562/640304b2-1a02-4523-8633-bac3c7b087fb">
 
-- 
-<img width="635" alt="ConfirmaçãoCriarCliente" src="https://github.com/brunoopetri/customer-management/assets/98756562/187bf210-b430-46c3-adee-f2fa04f8daa7">
+ 
+<img width="635" alt="ConfirmaçãoCriarCliente1" src="https://github.com/brunoopetri/customer-management/assets/98756562/1b12d9b1-89d7-4d22-88ae-d3513d8c8f1e">
