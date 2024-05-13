@@ -42,9 +42,10 @@ Before you begin, make sure your machine meets the following requirements:
 - In the application
 <img width="635" alt="CriarCliente" src="https://github.com/brunoopetri/customer-management/assets/98756562/640304b2-1a02-4523-8633-bac3c7b087fb">
 
- 
+ - Create Customer
 <img width="635" alt="ConfirmaçãoCriarCliente1" src="https://github.com/brunoopetri/customer-management/assets/98756562/d88cdb22-96a6-4361-a22b-b909e6f155cc">
 
+- Confirm client creation in MySQL Workbench
 <img width="1279" alt="MySQL_CreateCustomer" src="https://github.com/brunoopetri/customer-management/assets/98756562/ec8a6819-e7d5-4c99-9658-6a9d851ba14e">
 
 ## Edit Customer
