@@ -22,7 +22,6 @@ Before you begin, make sure your machine meets the following requirements:
 ## Prompt commands described
 
 - './vendor/bin/sail up -d': This command starts Docker containers defined in the Sail environment in the background (-d). It creates a network and starts the containers required to run the Laravel application.
-
 - './vendor/bin/sail shell': This command opens a shell inside the Sail environment container. Allows you to interact directly with the Laravel application development environment.
 - 'php artisan db:seed --class=CustomerSeeder': This command executes Laravel database seed execution. In the example given, it is running the specific seeder called "CustomerSeeder", which probably populates the customers table with test data.
 
