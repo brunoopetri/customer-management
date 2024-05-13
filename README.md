@@ -36,5 +36,5 @@ Before you begin, make sure your machine meets the following requirements:
 <img width="638" alt="ListadeClientes" src="https://github.com/brunoopetri/customer-management/assets/98756562/92f671b7-b6b6-4885-a895-045ca8d80244">
 
 - The customers table with test data:
-<img width="1278" alt="MySQL AdicionadoCliente" src="https://github.com/brunoopetri/customer-management/assets/98756562/026d27de-8860-40d2-9420-75e236f642c1">
+<img width="1277" alt="MySQL_CustomerSeeder" src="https://github.com/brunoopetri/customer-management/assets/98756562/89e8ca89-f14d-48b6-a9e6-54fc36a34098">
 
