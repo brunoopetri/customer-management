@@ -9,6 +9,8 @@
 
 <h2 align="center">Customer Management</h2>
 
+![customers](https://github.com/brunoopetri/customer-management/assets/98756562/0c7ba4b6-4d90-4d34-aba8-91151443eb14)
+
 
  This is a customer management project developed in Laravel Sail, running on Docker environment. The objective of this project is to allow the registration, editing, deletion and listing of customers.
 
