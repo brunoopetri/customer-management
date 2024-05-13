@@ -18,3 +18,6 @@
 
 Before you begin, make sure your machine meets the following requirements:
 - Docker installed
+
+<img width="1278" alt="ComandoRodarDocker,AcessarShell do Docker,CriarListaSeeder" src="https://github.com/brunoopetri/customer-management/assets/98756562/219ec32b-afd4-4466-8655-def227919d17">
+
