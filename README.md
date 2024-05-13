@@ -35,6 +35,5 @@ Before you begin, make sure your machine meets the following requirements:
 - Populated Customer List:
 <img width="638" alt="ListadeClientes" src="https://github.com/brunoopetri/customer-management/assets/98756562/92f671b7-b6b6-4885-a895-045ca8d80244">
 
-- The customers table with test data:
-<img width="1277" alt="MySQL_CustomerSeeder" src="https://github.com/brunoopetri/customer-management/assets/98756562/89e8ca89-f14d-48b6-a9e6-54fc36a34098">
-
+- MySQL Workbench: The customers table with test data:
+<img width="1280" alt="MySQL_CustomerSeeder" src="https://github.com/brunoopetri/customer-management/assets/98756562/816eb707-4233-45e1-82ca-eb39d48f2d39">
