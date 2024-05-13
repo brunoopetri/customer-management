@@ -18,3 +18,5 @@
 
 Before you begin, make sure your machine meets the following requirements:
 - Docker installed
+
+<img width="634" alt="ListadeClientes" src="https://github.com/brunoopetri/customer-management/assets/98756562/95205042-c9cf-4b3f-be16-2e2de3d4871a">
