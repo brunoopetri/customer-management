@@ -49,6 +49,7 @@ Before you begin, make sure your machine meets the following requirements:
 
 ## Edit Customer
 - In the application
+- A more user-friendly method where the customer ID is not exposed in the URL.
 
 <img width="636" alt="editCustomer_1" src="https://github.com/brunoopetri/customer-management/assets/98756562/ecaa608c-167f-417a-bc9b-50d907096baa">
 
