@@ -46,3 +46,8 @@ Before you begin, make sure your machine meets the following requirements:
 <img width="635" alt="ConfirmaçãoCriarCliente1" src="https://github.com/brunoopetri/customer-management/assets/98756562/d88cdb22-96a6-4361-a22b-b909e6f155cc">
 
 <img width="1279" alt="MySQL_CreateCustomer" src="https://github.com/brunoopetri/customer-management/assets/98756562/ec8a6819-e7d5-4c99-9658-6a9d851ba14e">
+
+## Edit Customer
+- In the application
+
+<img width="637" alt="editCustomer" src="https://github.com/brunoopetri/customer-management/assets/98756562/1bd2154a-056a-4f05-8b57-5feb4d33bc7b">
