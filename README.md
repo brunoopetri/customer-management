@@ -30,8 +30,11 @@ Before you begin, make sure your machine meets the following requirements:
 ## CustomerSeeder
 
 - Empty Customer List:
-<img width="635" alt="ListadeClientesVazia" src="https://github.com/brunoopetri/customer-management/assets/98756562/28b6789a-9815-4cec-82ea-4ce00f3dd6b0">
+  <img width="635" alt="ListadeClientesVazia" src="https://github.com/brunoopetri/customer-management/assets/98756562/28b6789a-9815-4cec-82ea-4ce00f3dd6b0">
 
 - Populated Customer List:
-<img width="638" alt="ListadeClientes" src="https://github.com/brunoopetri/customer-management/assets/98756562/92f671b7-b6b6-4885-a895-045ca8d80244">
+  <img width="638" alt="ListadeClientes" src="https://github.com/brunoopetri/customer-management/assets/98756562/92f671b7-b6b6-4885-a895-045ca8d80244">
+
+- The customers table with test data:
+  <img width="1278" alt="MySQL AdicionadoCliente" src="https://github.com/brunoopetri/customer-management/assets/98756562/026d27de-8860-40d2-9420-75e236f642c1">
 
