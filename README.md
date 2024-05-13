@@ -27,3 +27,8 @@ Before you begin, make sure your machine meets the following requirements:
 
 <img width="1278" alt="ComandoRodarDocker,AcessarShell do Docker,CriarListaSeeder" src="https://github.com/brunoopetri/customer-management/assets/98756562/219ec32b-afd4-4466-8655-def227919d17">
 
+## CustomerSeeder
+
+- Empty Customer List:
+<img width="635" alt="ListadeClientesVazia" src="https://github.com/brunoopetri/customer-management/assets/98756562/28b6789a-9815-4cec-82ea-4ce00f3dd6b0">
+
