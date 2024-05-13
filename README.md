@@ -61,3 +61,7 @@ Before you begin, make sure your machine meets the following requirements:
 - Confirm client edition in MySQL Workbench
 
 <img width="1277" alt="MySQL EditCustomer1" src="https://github.com/brunoopetri/customer-management/assets/98756562/2923f0f4-ff09-420d-a9a9-5573f7231203">
+
+## Delete Customer
+
+<img width="636" alt="DeleteCustomer" src="https://github.com/brunoopetri/customer-management/assets/98756562/fd7db320-f6f8-453e-b280-543e9c1e3504">
