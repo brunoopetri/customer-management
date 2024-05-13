@@ -43,4 +43,6 @@ Before you begin, make sure your machine meets the following requirements:
 <img width="635" alt="CriarCliente" src="https://github.com/brunoopetri/customer-management/assets/98756562/640304b2-1a02-4523-8633-bac3c7b087fb">
 
  
-<img width="635" alt="ConfirmaçãoCriarCliente1" src="https://github.com/brunoopetri/customer-management/assets/98756562/1b12d9b1-89d7-4d22-88ae-d3513d8c8f1e">
+<img width="635" alt="ConfirmaçãoCriarCliente1" src="https://github.com/brunoopetri/customer-management/assets/98756562/30403ed9-fe3f-4cd3-9916-fb9d8a28acd4">
+
+<img width="1279" alt="MySQL_CreateCustomer" src="https://github.com/brunoopetri/customer-management/assets/98756562/ec8a6819-e7d5-4c99-9658-6a9d851ba14e">
