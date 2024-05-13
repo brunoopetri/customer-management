@@ -50,7 +50,7 @@ Before you begin, make sure your machine meets the following requirements:
 ## Edit Customer
 - In the application
 
-<img width="637" alt="editCustomer" src="https://github.com/brunoopetri/customer-management/assets/98756562/1bd2154a-056a-4f05-8b57-5feb4d33bc7b">
+<img width="636" alt="editCustomer_1" src="https://github.com/brunoopetri/customer-management/assets/98756562/ecaa608c-167f-417a-bc9b-50d907096baa">
 
 - Edit Customer
 
