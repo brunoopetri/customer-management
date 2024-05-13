@@ -24,7 +24,7 @@ Before you begin, make sure your machine meets the following requirements:
 - './vendor/bin/sail up -d': This command starts Docker containers defined in the Sail environment in the background (-d). It creates a network and starts the containers required to run the Laravel application.
 
 - './vendor/bin/sail shell': This command opens a shell inside the Sail environment container. Allows you to interact directly with the Laravel application development environment.
-- 'php artisan db':seed --class=CustomerSeeder: This command executes Laravel database seed execution. In the example given, it is running the specific seeder called "CustomerSeeder", which probably populates the customers table with test data.
+- 'php artisan db:seed --class=CustomerSeeder': This command executes Laravel database seed execution. In the example given, it is running the specific seeder called "CustomerSeeder", which probably populates the customers table with test data.
 
 <img width="1278" alt="ComandoRodarDocker,AcessarShell do Docker,CriarListaSeeder" src="https://github.com/brunoopetri/customer-management/assets/98756562/219ec32b-afd4-4466-8655-def227919d17">
 
