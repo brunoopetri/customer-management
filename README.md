@@ -65,3 +65,6 @@ Before you begin, make sure your machine meets the following requirements:
 ## Delete Customer
 
 <img width="636" alt="DeleteCustomer" src="https://github.com/brunoopetri/customer-management/assets/98756562/fd7db320-f6f8-453e-b280-543e9c1e3504">
+
+- Customer deletion confirmed in MySQL Workbench
+<img width="1277" alt="MysQL_DeleteCustomer" src="https://github.com/brunoopetri/customer-management/assets/98756562/561f1e6f-a89e-4a8b-ade7-2fee56d5dca1">
